@@ -1,0 +1,15 @@
+version = "1.0"
+
+[metadata]
+# TODO: Fill in your details
+author_name = ""
+author_email = ""
+difficulty = "easy"        # easy | medium | hard
+category = "programming"
+tags = []                  # e.g. ["devops", "docker", "nginx"]
+
+[verifier]
+timeout_sec = 60.0
+
+[agent]
+timeout_sec = 900.0
